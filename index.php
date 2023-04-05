@@ -57,7 +57,7 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead">WELCOME TO OUR WEBSITE</h1>
+				<h1 class="lead">Bienvenid@s WEBSITE</h1>
 				<p class="tagline">PROGRESSUS: Esta plantilla la pondras encontrar en <a href="http://www.google.com.pe">Google</a></p>
 				<p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
 			</div>
